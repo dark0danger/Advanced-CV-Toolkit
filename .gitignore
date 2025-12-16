@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Media output folder (Don't upload your test videos)
+media_output/
+*.avi
+*.png
+*.jpg
+
+# Virtual environments
+venv/
+env/
